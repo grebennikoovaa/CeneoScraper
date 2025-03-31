@@ -12,7 +12,7 @@ https://www.ceneo.pl/84514582#tab=reviews
 ## Analysis of the structure of the webpage
 |Component|Selector|Varriable|
 |---------|--------|---------|
-|opinion|div.js_product-review|opinion|
+|opinion|div.js_product-review.not()|opinion|
 |opinion ID|[data-entry-id]|opinion ID|
 |author|span.user-post_author-name|author|
 |recomendation|span.user-post_author-recomendation|recomendation|
